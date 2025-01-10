@@ -34,4 +34,3 @@ The dataset and fine-tuning results are provided for researchers and developers 
 If you find this repository helpful in your research or development, please cite our work:
 
 > Not published yet
-## Future Updates
