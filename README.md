@@ -4,7 +4,6 @@ This repository is dedicated to the research and development of Arabic Question 
 
 ## Repository Contents
 
-- **Dataset**: A curated Arabic dataset of 5000+ labeled records, specifically tailored for question classification and answer generation tasks.
 - **Fine-tuning Results**:
   - **AraBERT**: Results of fine-tuning AraBERT for multi-class classification.
   - **CAMeLBERT**: Results of fine-tuning CAMeLBERT for comparative performance evaluation.
