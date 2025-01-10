@@ -5,8 +5,8 @@ This repository is dedicated to the research and development of Arabic Question 
 ## Repository Contents
 
 - **Fine-tuning Results**:
-  - **AraBERT**: Results of fine-tuning AraBERT for multi-class classification.
-  - **CAMeLBERT**: Results of fine-tuning CAMeLBERT for comparative performance evaluation.
+  - **AraBERT**: Results of fine-tuning AraBERT.
+  - **CAMeLBERT**: Results of fine-tuning CAMeLBERT for MSA.
 
 ## Key Features
 
