@@ -29,7 +29,7 @@ The dataset and fine-tuning results are provided for researchers and developers 
 - Extending research in Arabic question classification and answer generation.
 
 ## HuggingFace Models links:
-AraBERT-base Modes
+AraBERT-base Models
 - mariamessamelsayed/QuestionToolType-arabert-base
 - mariamessamelsayed/QuestionType-arabert-base
 - mariamessamelsayed/List-arabert-base
