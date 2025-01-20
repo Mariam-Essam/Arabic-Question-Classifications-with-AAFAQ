@@ -28,6 +28,29 @@ The dataset and fine-tuning results are provided for researchers and developers 
 - Replicating our results.
 - Extending research in Arabic question classification and answer generation.
 
+## HuggingFace Models links:
+AraBERT-base Modes
+mariamessamelsayed/QuestionToolType-arabert-base
+mariamessamelsayed/QuestionType-arabert-base
+mariamessamelsayed/List-arabert-base
+mariamessamelsayed/AnswerType-arabert-base
+mariamessamelsayed/Intent-arabert-base
+mariamessamelsayed/CognitiveLevel-arabert-base
+mariamessamelsayed/Subjectivity-arabert-base
+mariamessamelsayed/TemporalContext-arabert-base
+mariamessamelsayed/PurposeContext-arabert-base
+
+CAMeL-MSA-base Models:
+mariamessamelsayed/QuestionToolType-camelbert-base-msa
+mariamessamelsayed/QuestionType-camelbert-base-msa
+mariamessamelsayed/List-camelbert-base-msa
+mariamessamelsayed/AnswerType-camelbert-base-msa
+mariamessamelsayed/Intent-camelbert-base-msa
+mariamessamelsayed/CognitiveLevel-camelbert-base-msa
+mariamessamelsayed/Subjectivity-camelbert-base-msa
+mariamessamelsayed/TemporalContext-camelbert-base-msa
+mariamessamelsayed/PurposeContext-camelbert-base-msa
+
 ## Citation
 
 If you find this repository helpful in your research or development, please cite our work:
